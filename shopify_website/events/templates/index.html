@@ -1,0 +1,28 @@
+	{% extends 'events/base.html' %}
+    <br/>
+
+	{% block content %}
+
+	<h1>Users:</h1>
+	<br/>
+{% for data in customers %}
+<div class="card">
+  <div class="card-header">
+    {{data.1}}
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Customer ID: </b>{{data.0}}</h5>
+    <p class="card-text"><ul>
+		<li><b>Address: </b>{{data.2}}</li>
+		<li><b>Email: </b>{{data.3}}</li>
+		<li><b>Phone No: </b>{{data.4}}</li>
+		<li><b>DOB: </b>{{data.5}}</li>
+		<li><b>Gender: </b>{{data.6}}</li>
+	</ul>
+</p>
+   </div>
+</div>
+	
+{% endfor %}
+	
+{% endblock %}

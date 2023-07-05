@@ -1,0 +1,27 @@
+	{% extends 'events/base.html' %}
+    <br/>
+
+	{% block content %}
+
+	<h1>Customers who placed an Order:</h1>
+	<br/>
+{% for wholesaler in wholesalers %}
+<div class="card">
+  <div class="card-header">
+    {{wholesaler.1}}
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Customer ID: </b>{{wholesaler.0}}</h5>
+    <p class="card-text"><ul>
+		<li><b>Gender: </b>{{wholesaler.2}}</li>
+		<li><b>Cart_ID: </b>{{wholesaler.3}}</li>
+		<li><b>Type_Of_Payment: </b>{{wholesaler.4}}</li>
+		<li><b>Date_Of_Order: </b>{{wholesaler.5}}</li>
+	</ul>
+</p>
+   </div>
+</div>
+	
+{% endfor %}
+	
+{% endblock %}
