@@ -12,6 +12,7 @@ This repository contains:
     * template: consists of all the HTML files
     * manage.py: source file required to run the django server
     * db.sqlite3: file realted to database
+* Serializibility.pdf: PDF which contains all the locking protocols and serializibility which we used while handling the conflicting queries.
 * README
 # Dependencies <img style="center" src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/be009327-bc2e-4217-ab01-9262094e4a21" width="35" height="35">
 You need the following to be installed in your system to work on this project:
