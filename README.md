@@ -3,7 +3,11 @@
 ![Screenshot (143)](https://github.com/sahilgoswami0901/Shopify/assets/107829550/14b5d139-adf3-493b-be67-c943fc0269cf)
 # About the Project <img src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/8ae553b7-f940-4099-acf5-bd9098cd10cf" width="35" height="35">
 An e-commerce website is a software system developed primarily to facilitate buying of products between users.<br/> 
-Our course project's aim was to develop a Secure e-Commerce website that follows global standards and laws.
+Our course project's aim was to develop a Secure e-Commerce website that follows global standards and laws. <br/>
+Home Page: <br/>
+<br/>
+![Screenshot (144)](https://github.com/sahilgoswami0901/Shopify/assets/107829550/496ffa3b-5be0-474f-bb16-252d33cdd430)
+
 # About this Repo <img src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/d5554e68-0323-4098-af1e-234688a7db3d" width="30" height="30">
 This repository contains:
 * shopify_website folder:
