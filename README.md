@@ -34,5 +34,5 @@ Feel free to make bug reports on our issues. You can reach out to us in case you
 Contact us:<br/>
 <br/>
 🧠 Sahil Goswami: sahil21281@iiitd.ac.in <br/>
-🕶  Hitesh Yadav: hitesh21255@iiitd.ac.in <br/>
+🕶  Hitesh Kumar: hitesh21255@iiitd.ac.in <br/>
 Currently, we both are working on Add to Cart functionality and payment gateway
