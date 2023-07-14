@@ -1,5 +1,5 @@
 # Shopify <img src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/d3f41afa-5383-4d88-b735-4fd0fba57ded" width="35" height="35">
-### Shopify is an e-commerce website which allows people to buy electronic items, daily wear, etc. [Link to demo video](https://drive.google.com/file/d/1z2WQNjfBbp9jBBdQWzOurFsvUXvrZ11t/view?usp=drive_link )
+### Shopify is an e-commerce website which allows people to buy electronic items, daily wear, etc. [Link to demo video](https://drive.google.com/file/d/1z2WQNjfBbp9jBBdQWzOurFsvUXvrZ11t/view?usp=sharing)
 ![Screenshot (143)](https://github.com/sahilgoswami0901/Shopify/assets/107829550/14b5d139-adf3-493b-be67-c943fc0269cf)
 # About the Project <img src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/8ae553b7-f940-4099-acf5-bd9098cd10cf" width="35" height="35">
 An e-commerce website is a software system developed primarily to facilitate buying of products between users.<br/> 
